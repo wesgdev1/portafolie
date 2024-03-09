@@ -17,7 +17,7 @@ const Bannerp = () => {
         <h1 className="text-5xl font-bold text-white">Welinton Suarez</h1>
         <h3 className="text-2xl font-semibold ">Full Stack Web developer</h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Javascript | Typescript | React | Next.js | Node.ss | PostgreSql |
+          Javascript | Typescript | React | Next.js | Node.js | PostgreSql |
           Express | HTML&CSS
         </p>
       </div>
