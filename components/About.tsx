@@ -4,9 +4,8 @@ import { Title } from "./Title";
 const About = () => {
   return (
     <div className="wrapper">
-      <Title text="About me" icon={<SiInformatica />} />
+      <Title text="Acerca de mi" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-5 text-justify">
-        <p>¡Hola, soy Welinton Suarez!</p>
         <p>
           Desarrollador Full-Stack apasionado por el desarrollo web y las
           telecomunicaciones. Especializado en JavaScript, Node, React, Express,
