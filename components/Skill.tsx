@@ -19,6 +19,8 @@ export const Skill = () => {
         <Skillinput title="Boostrap" icon={<RiJavascriptLine />} />
         <Skillinput title="Tailwind" icon={<RiJavascriptLine />} />
         <Skillinput title="Git/ Github" icon={<RiJavascriptLine />} />
+        <Skillinput title="NextJs" icon={<RiJavascriptLine />} />
+        <Skillinput title="NestJs" icon={<RiJavascriptLine />} />
       </div>
     </div>
   );

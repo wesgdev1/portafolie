@@ -21,8 +21,7 @@ const Bannerp = () => {
           Full Stack Web developer
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Javascript | Typescript | React | Next.js | Node.js | PostgreSql |
-          Express | HTML&CSS
+          Código, redes y más: Donde la tecnología encuentra su hogar.
         </p>
       </div>
     </div>
