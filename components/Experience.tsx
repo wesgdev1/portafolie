@@ -26,7 +26,7 @@ export const Experience = () => {
         />
         <ExperienceCard
           title="Emsitel"
-          subTitle="Administrador TI - 2012 -2018"
+          subTitle="Administrador TI - 2014 -2018"
           icon={<HiMiniServerStack />}
         />
       </div>
