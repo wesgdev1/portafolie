@@ -5,6 +5,7 @@ import { Experience } from "@/components/Experience";
 import { Footer } from "@/components/Footer";
 import { Projects } from "@/components/Projects";
 import { Skill } from "@/components/Skill";
+import { AnimatedTooltip } from "@/components/ui/AnimatedTooltip";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <Skill />
         <Projects />
         <Contact />
+
         <Footer />
       </div>
     </main>
