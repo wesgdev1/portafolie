@@ -46,7 +46,7 @@ export const Contact = () => {
         />
         <SocialLink
           title="Currículum"
-          link="https://drive.google.com/file/d/1LbGH5JheF8Lfawly5b-TYWbI-xfH1fLV/view"
+          link="https://drive.google.com/file/d/1e_b9-wE8mt6lbCj04cKp_dZ81grobsZQ/view"
         />
       </div>
     </div>
